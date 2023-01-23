@@ -83,12 +83,3 @@ function setup() {
         }    
     }
 }
-
-
-
-    //for (let i = 0; i < sec; i++) {
-    //  if((i*secondScale)+padding < width-padding){
-    //    line((i*secondScale)+padding, secondTallyY, (i*secondScale)+padding, secondTallyY-tallyHeight);
-    //  }
-    //}
-  //}
